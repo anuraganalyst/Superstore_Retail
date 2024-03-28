@@ -3,6 +3,7 @@
 # About Superstore Dataset
 The Dataset is about a superstore orders in the United States of four different regions east, west, central and south. 
 The dataset consists of close to 10000 orders spanning from 2014 to 2017.The tabular dataset consists of order details, customer details, product details, categories, subcategories, sales & profit across different regions, states, cities of the United States.
+
 [Superstore_Retail](https://community.tableau.com/s/contentdocument/0694T000001GnpUQAS)
 
 # Problem Statement
